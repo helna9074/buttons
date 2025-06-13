@@ -1,0 +1,184 @@
+.requestbutton {
+      width: 120px;
+      height: 40px;
+      border: none;
+      color: white;
+      background-color: black;
+      font-size: 15;
+      margin-right: 8px;
+      cursor: pointer;
+      transition: opacity 0.15s;
+    }
+    .requestbutton:hover {
+      opacity: 0.8;
+    }
+    .amazonbutton {
+      width: 186px;
+      height: 40px;
+      color: black;
+      background-color: rgb(255, 210, 46);
+      border: none;
+      border-radius: 20px;
+      font-size: 15;
+      margin-left: 8px;
+      cursor: pointer;
+      transition: background-color 0.15s;
+    }
+    .amazonbutton:hover {
+      background-color: rgb(245, 202, 46);
+    }
+    .gitbutton {
+      width: 120px;
+      height: 42px;
+      color: white;
+      background-color: rgb(52 177 52);
+      border: none;
+      border-radius: 5px;
+      font-weight: bold;
+      font-size: 15;
+      margin-left: 8px;
+      cursor: pointer;
+      transition: box-shadow 0.15s;
+    }
+    .gitbutton:hover {
+      box-shadow: 2px 10px 10px rgba(0, 0, 0, 0.3);
+    }
+    .downloadbutton:hover {
+      background-color: rgb(89 81 81 / 84%);
+      color: white;
+    }
+    .downloadbutton {
+      width: 120px;
+      height: 42px;
+      color: rgb(89 81 81 / 84%);
+      background-color: white;
+      border-color: rgb(129 116 116 / 84%);
+      font-weight: bold;
+      font-size: 15;
+      border-style: solid;
+      border-radius: 3px;
+      margin-left: 8px;
+      cursor: pointer;
+      transition: background-color 0.15s, color 0.15s;
+    }
+    .linkedin:hover {
+      background-color: rgb(10, 82, 183);
+    }
+    .linkedin {
+      width: 247px;
+      height: 44px;
+      background-color: rgb(44 115 216);
+      color: white;
+      border: none;
+      font-weight: bold;
+      font-size: 15;
+      border-radius: 20px;
+      margin-left: 8px;
+      cursor: pointer;
+      transition: background-color 0.15s;
+    }
+    .savebutton:hover {
+      background-color: rgb(226, 240, 254);
+      border-width: 3px;
+    }
+    .savebutton {
+      width: 120px;
+      height: 45px;
+      font-weight: bold;
+      font-size: 15;
+      background-color: rgb(255, 255, 255, 255);
+      color: rgb(50 103 179);
+      border-radius: 21px;
+      border-color: rgb(44 115 216);
+      border-style: solid;
+      margin-left: 3px;
+      transition: background-color 0.15s, border-width 0.15s;
+    }
+    .subscribe-button {
+      padding-left: 20px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-right: 20px;
+      font-size: 15px;
+      background-color: rgb(207, 12, 12);
+      color: white;
+      border: none;
+      border-radius: 2px;
+    }
+    button {
+      padding-top: 10px;
+      padding-bottom: 10px;
+      margin-bottom: 20px;
+    }
+    .stretchbutton {
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 15px;
+      padding-right: 15px;
+      background-color: rgb(7, 138, 7);
+      color: white;
+      cursor: pointer;
+      border: none;
+      margin-left: 10px;
+     
+      transition:padding 0.15s,margin 0.15s;
+    }
+    .stretchbutton:hover {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      padding-left: 36px;
+      padding-right: 36px;
+     
+      
+
+    }
+    .shadowbutton {
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 20px;
+      padding-right: 20px;
+      background-color: rgb(7, 138, 7);
+      color: white;
+      cursor: pointer;
+      border: none;
+      margin-left: 10px;
+      transition: 0.15s;
+    }
+    .shadowbutton:active {
+      box-shadow: 5px 2px 8px rgba(0, 0, 0, 0.4);
+      transform: translateY(3px);
+    }
+    .onebutton {
+      padding: 10px;
+      background-color: rgb(7, 138, 7);
+          color:white;
+          border:none;
+          margin-right:10px;
+          margin-left:10px;
+          transition:padding 0.15s;
+    }
+    .twobutton{
+      padding: 10px;
+      background-color: rgb(7, 138, 7);
+          color:white;
+          border:none;
+           margin-right:10px;
+           transition:padding 0.15s;
+    }
+    
+    .threebutton{
+      
+      padding: 10px;
+      background-color: rgb(7, 138, 7);
+          color:white;
+          border:none;
+           margin-right:10px;
+           transition:padding 0.15s,margin 0.15s;
+    }
+    
+    .shared-button:hover{
+      margin-left:8px;
+      padding-left: 20px;
+      padding-right: 20px;
+        margin-right:8px;
+    }
